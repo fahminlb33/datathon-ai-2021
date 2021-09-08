@@ -9,3 +9,5 @@ Repositori ini berisi source code pada submisi lomba [Datathon AI 2021](https://
 - matplotlib
 - scikit-learn
 - statsmodels
+- networkx
+- EoN
